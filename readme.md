@@ -16,6 +16,24 @@ Dictionary lookup · AI analysis · Vocabulary management · Anki export
 
 </div>
 
+## 📚 Where to Find Books — Hindawi Foundation
+
+Kalima is especially well-suited for books from **[Hindawi Foundation](https://www.hindawi.org)** (مؤسسة هنداوي) — the largest free Arabic digital library in the world.
+
+Hindawi is an Egyptian non-profit founded in 2008 with a mission to spread knowledge and culture, and foster a love of reading among Arabic speakers. Their library offers **over 3,000 books** spanning literature, science, history, children's stories, and more — all free to read and download.
+
+What makes Hindawi ideal for learners:
+
+- **Free EPUB downloads** — every book is available as an `.epub` file, ready to open directly in Kalima
+- **Broad genre range** — from accessible modern novels to classical non-fiction to translated world literature
+
+### Downloading books
+
+1. Go to **[hindawi.org/books](https://www.hindawi.org/books/)** — for example: [العبرات](https://www.hindawi.org/books/29373683/)
+2. Browse or search for a title
+3. Open any book page and click **تحميل** (Download) → choose **EPUB**
+4. Open the downloaded file in Kalima (`⌘O`)
+
 ---
 
 ## What is Kalima?
